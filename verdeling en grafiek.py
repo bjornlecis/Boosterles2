@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-lijst = np.random.randint(100, size=50)
+lijst = np.random.randint(100, size=10)
 lijsta = []
 lijstb = []
 lijstc = []
